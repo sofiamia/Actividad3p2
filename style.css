@@ -1,0 +1,119 @@
+.sofia{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 1350px;
+	height: 640px;
+	background: pink;
+	border: solid 2px black;
+}
+.uno{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 400px;
+	height: 90px;
+	background: #D7BDE2;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 80px;
+}
+.dos{
+	position: absolute;
+	left: 10px;
+	top: 130px;
+	width: 400px;
+	height: 300px;
+	background: #D7BDE2;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 40px;
+}
+.foto1{
+	position: absolute;
+	left: 10px;
+	top: 450px;
+	width: 150px;
+	height: 150px;
+	border: solid 2px black;
+	background: url('foto1.jpg');
+	background-size: cover;
+}
+.foto2{
+	position: absolute;
+	left: 170px;
+	top: 450px;
+	width: 240px;
+	height: 150px;
+	border: solid 2px black;
+	background-size: cover;
+	font-family: Bell MT;
+	font-size: 30px;
+	background: #D7BDE2;
+}
+.foto5{
+	position: absolute;
+	left: 450px;
+	top: 450px;
+	width: 300px;
+	height: 150px;
+	border: solid 2px black;
+	background: url('descarga5.jpg');
+	background-size: cover;
+}
+.cinco{
+	position: absolute;
+	left: 50px;
+	top: 450px;
+	width: 330px;
+	height: 150px;
+	border: solid 2px black;
+	background-size: cover;
+	font-family: Bell MT;
+	font-size: 30px;
+	background: #D7BDE2;
+}
+.ana{
+	position: absolute;
+	left: 470px;
+	top: 25px;
+	width: 850px;
+	height: 430px;
+	background: pink;
+	border: solid 2px black;
+	background: #D7BDE2;
+}
+.tres{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 800px;
+	height: 250px;
+	background: #D7BDE2;
+	border: solid 2px black;
+	font-family: Bell MT;
+	font-size: 50px;
+}
+.foto3{
+	position: absolute;
+	left: 60px;
+	top: 270px;
+	width: 250px;
+	height: 150px;
+	border: solid 2px black;
+	background: url('descarga.jpg');
+	background-size: cover;
+}
+.diez{
+	position: absolute;
+	left: 450px;
+	top: 270px;
+	width: 300px;
+	height: 150px;
+	border: solid 2px black;
+	background: url('descarga1.jpg');
+	background-size: cover;
+}
+}
+
+}
